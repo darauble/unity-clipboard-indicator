@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=Clipboard Indicator
+Comment=Clipboard history manager for the Unity panel
+Exec=@CMAKE_INSTALL_FULL_BINDIR@/clipboard-indicatord
+Icon=edit-paste
+Terminal=false
+NoDisplay=true
+OnlyShowIn=Unity;
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=2

@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Clipboard Indicator Settings
+Comment=Configure the clipboard history manager
+Exec=@CMAKE_INSTALL_FULL_BINDIR@/clipboard-indicator-ui --settings
+Icon=edit-paste
+Terminal=false
+Categories=Utility;Settings;
+OnlyShowIn=Unity;
